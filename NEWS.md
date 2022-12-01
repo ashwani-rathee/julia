@@ -8,7 +8,7 @@ New feature for packages that allows loading a piece of code based on other
 packages being loaded in the Julia session.
 This has similar applications as the Requires.jl package but also
 supports precompilation and setting compatibility.
-Look in the documentation for Pkg.jl for "glue packages" for more information.
+Look in the documentation for Pkg.jl for "extensions" for more information.
 Language changes
 ----------------
 
